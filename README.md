@@ -13,6 +13,8 @@ npm i styled-components @types/styled-components
 
 ## Create and install all dependencies ecommerce-backend cmd
 ```
+Watch video here - `https://www.youtube.com/watch?v=385cpCpGRC0`
+
 npx create-strapi-app ecommerce-backend --quickstart
 ```
 ### Strapi admin
