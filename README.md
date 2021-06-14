@@ -16,7 +16,11 @@ npm i styled-components @types/styled-components
 Watch video here - `https://www.youtube.com/watch?v=385cpCpGRC0`
 
 npx create-strapi-app ecommerce-backend --quickstart
+npx create-next-app -> ecommerce-frontend
 ```
-### Strapi admin
+### Backend - Strapi admin
 `http://localhost:1337/admin`
 To start run - `npm run develop`
+
+### Frontend
+``npm run dev` -> `http://localhost:3000/`
