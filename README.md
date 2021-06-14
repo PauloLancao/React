@@ -19,3 +19,4 @@ npx create-strapi-app ecommerce-backend --quickstart
 ```
 ### Strapi admin
 `http://localhost:1337/admin`
+To start run - `npm run develop`
